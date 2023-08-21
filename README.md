@@ -1,4 +1,4 @@
-************************************** Tourism Demand Forecasting Using Machine Learning *********************************************
+*********** Tourism Demand Forecasting Using Machine Learning ************
 
 Predicting tourists arrival help destinations to make neccessary arrangements and help tourism businesses to make efficient financial decisions in terms of allocating resouces,staffing,controlling expenditure and exploring oppurtunities for expansion. Every tourist place has it's own speciality to attract tourists.  Influence of it on tourists may depend on the season,day speciality,it's trend on social media,Geometric location etc.. So,for every tourist place the features to consider may change according to its speciality.
     

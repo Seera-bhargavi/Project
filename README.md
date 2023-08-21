@@ -1,4 +1,5 @@
-#Tourism Demand Forecasting Using Machine Learning 
+************************************** Tourism Demand Forecasting Using Machine Learning *********************************************
+
 Predicting tourists arrival help destinations to make neccessary arrangements and help tourism businesses to make efficient financial decisions in terms of allocating resouces,staffing,controlling expenditure and exploring oppurtunities for expansion. Every tourist place has it's own speciality to attract tourists.  Influence of it on tourists may depend on the season,day speciality,it's trend on social media,Geometric location etc.. So,for every tourist place the features to consider may change according to its speciality.
     
 Machine learning algorithms are used to detect the pattern of trends in tourism arrivals and helps to forecast future arrivals. Here we created a model to forecast arrivals for the tourist place Tirumala Tirupati Devastanam(TTD). We have considered attributes Day Speciality(whether day is festival,ttd_speciality on that day,public holiday or normal day),Weather condition(Based on temperature),Google Trends(frequency of ttd related keywords searched on goolgle),Twitter trend(whether opinion of twitter is +ve,-ve or neutral).
